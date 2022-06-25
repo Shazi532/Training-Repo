@@ -1,0 +1,3 @@
+Welcome to trining of Git.
+
+we have created a repo and a file in main branch.
